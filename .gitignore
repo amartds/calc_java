@@ -142,6 +142,9 @@ hs_err_pid*
 # KDE directory preferences
 .directory
 
+.idea/*
+calc_java.iml
+
 # Linux trash folder which might appear on any partition or disk
 .Trash-*
 
